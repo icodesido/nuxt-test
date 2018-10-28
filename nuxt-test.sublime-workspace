@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"policy-form__button"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"re",
+				"reference"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"he",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"haer",
+				"header__number"
+			],
+			[
+				"it",
+				"intro__para"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"intro",
+				"intro__header"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"seco",
+				"secondPage"
+			],
+			[
+				"first",
+				"firstPage"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bro",
+				"border-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"arti",
+				"article-body"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"feat",
+				"feature-hero"
+			],
+			[
+				"pod",
+				"podcast-image"
+			],
+			[
+				"feature",
+				"feature-audio"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sm",
+				"small-caps"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"fe",
+				"feature-audio"
+			],
+			[
+				"other",
+				"other-features"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"is",
+				"issue"
+			],
+			[
+				"cov",
+				"coverImage"
+			],
+			[
+				"sor",
+				"sortByText"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"advanc",
+				"advanced-search"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"fa-angle",
+				"fa-angle-up"
+			],
+			[
+				"subs",
+				"subscriber"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"face",
+				"facet-active"
+			],
+			[
+				"facet",
+				"facet-active"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"more",
+				"moreCats"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"tran",
+				"transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ivan/Desktop/dr-test/src/components/Intro.vue",
+		"/Users/ivan/Desktop/dr-test/src/main.js",
+		"/Users/ivan/Desktop/dr-test/package.json",
+		"/Users/ivan/Downloads/LRB/lrb-site/resources/assets/sass/modules/_article.scss",
+		"/Users/ivan/Downloads/LRB/lrb-site/resources/assets/js/components/Archive.vue",
+		"/Users/lrbmacic/Desktop/lrb-blog/app/Services/Legacy/Database.php",
+		"/Users/ivan/Downloads/LRB/lrb-site/resources/assets/js/app.js",
+		"/Users/lrbmacic/Desktop/lrb-blog/resources/views/article.blade.php",
+		"/Users/lrbmacic/Desktop/lrb-blog/lrb-blog.sublime-project",
+		"/Users/lrbmacic/Desktop/lrb-blog/resources/assets/sass/app.scss",
+		"/Users/lrbmacic/Downloads/lrb-newsletter old/nin.htm",
+		"/Users/lrbmacic/Desktop/lrb-blog/resources/views/layouts/app.blade.php",
+		"/Users/lrbmacic/Desktop/lrb-site/public/index.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/52D1690B-0290-4AA8-9891-5D4A44EAC70F/article2.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/68005006-5C02-4B27-BFBB-B99CEB362D28/article3.tpl.php",
+		"/Users/lrbmacic/Desktop/lrb-site/composer.lock",
+		"/Users/lrbmacic/Desktop/lrb-blog/webpack.mix.js",
+		"/Users/lrbmacic/Desktop/lrb-site/bootstrap/app.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/AF92AB1C-8D8C-475B-968E-34D3088ADB5D/article3.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/58A81C2D-D663-4C2E-B732-88062325AD02/article2.tpl.php",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/archive.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/blog.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/special.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/nin.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/nin-podcast.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/special-juice.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/archive-table.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/most-read-juice.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/blog-juice.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/nin-table.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/blog-table.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/most-read.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/sample.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/archive-blog.htm",
+		"/Users/lrbmacic/Downloads/special.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/most-read-old.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/special.css",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/most-read-alt.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/blog-inline.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/si.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/fta.htm",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/responsive-new-issue-newsletter.html",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/percentage-alt-new-issue-newsletter.html",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/new-issue-newsletter.html",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/357268D3-EA59-4316-B103-03D16EF0126E/search.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/0B08E909-2D34-4BC6-B679-7B1729ECC5BE/search2.tpl.php",
+		"/Users/lrbmacic/Downloads/lrb-newsletter/font-face-ideal-sans.css",
+		"/Users/lrbmacic/Downloads/icomoon/style.css",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/3C2B20DD-AC59-4045-AA59-F517D941EDDE/search2.tpl.php",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/template1.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/partials/base.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/partials/action.njk",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/4DB4E92D-A411-4967-89E7-E4F45BDA5321/search.php",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/partials/container.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/partials/footer.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/partials/header.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/template2.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/template3.njk",
+		"/Users/lrbmacic/Downloads/Stephen - Empathise/src/templates/template4.njk",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/58501741-4EB6-41DD-81DC-2F7F62FE0392/search2.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/7D3DF8AA-7018-4753-AF46-0F028D69BC1A/search2.tpl.php",
+		"/Users/lrbmacic/Desktop/lrb-old-site",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/36BF0414-12D2-4AC1-9065-590C1EC721B4/search2.tpl.php",
+		"/Users/lrbmacic/Downloads/fa.css",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/0C4E4791-0E17-422C-A54B-9691EEC387DB/facets-js.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/04D2F981-F9D7-4CEB-938A-92272328B0FA/search.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/9C3F81BB-F19F-4D04-9867-43C8F99678B7/header.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/3E1E83FA-F23D-4C80-89AA-2DA13068369D/search-panel.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/5AB4A186-32A0-442D-8026-43B315375CE3/search2.tpl.php",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/2380F16A-C0E0-4F75-947F-982E41ECC6B5/search.tpl.php",
+		"/Users/lrbmacic/Desktop/lrb-old-site/old-lrb.sublime-project",
+		"/Users/lrbmacic/Library/Caches/Cleanup At Startup/Transmit/D3ABC9E0-2CBD-4A3D-A60B-AD2FF2876162/header.tpl.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<current file>,/Users/ivan/Desktop/dr-test",
+			"<current file>",
+			"/Users/lrbmacic/Desktop/lrb-site",
+			"/Users/lrbmacic/Desktop/lrb-blog",
+			"/Users/lrbmacic/Downloads/lrb-newsletter",
+			"<open files>",
+			"/Users/lrbmacic/Downloads/lrb-newsletter",
+			"<open files>",
+			"<current file>,<open files>",
+			"<current file>",
+			"/Users/lrbmacic/Downloads/lrb-old-site",
+			"/Users/lrbmacic/Desktop/lrb-old-site"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"first-proto",
+			"checkbox",
+			"password",
+			"svg",
+			"transition",
+			"$($paras[i]).fadeIn(200);",
+			"$($paras[i]).fadeIn('slow');",
+			"Guilio",
+			"article-controls",
+			"print-hide",
+			"bodycontent",
+			"search2",
+			"cover-image",
+			"feature-audio-module",
+			"align=\"left\"",
+			"bg-image",
+			"align=\"left\"",
+			"	.footer {\n		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', Arial, sans-serif;\n	}",
+			"	.footer-monogram {\n		margin-top: -5px;\n	}",
+			"<p>&copy; 2017 London Review of Books</p>",
+			"align=\"left\"",
+			"img",
+			"max-width",
+			".max-width",
+			"align=\"left\"",
+			"commercial-",
+			"commercial-mpu",
+			"	.commercial-mpu {\n		max-width: 300px;\n	}\n\n",
+			"	.commercial-banner img {\n		width: 100%;\n	}",
+			"cover-image",
+			"bg-image",
+			"margin",
+			"align=\"left\"",
+			",M",
+			"src=\"assets/",
+			"\"true\"class=",
+			"<table ",
+			"align=\"le",
+			"align=\"cen",
+			"intro-copy",
+			"6.9%",
+			"align=\"left\"",
+			"align=",
+			".wrapper",
+			"feature-audio-module",
+			"</div",
+			"<div",
+			"</div",
+			"<div",
+			"width: 100%",
+			".footer",
+			".header",
+			".footer",
+			".header",
+			".commercial-mpu",
+			"width: 100",
+			"commercial-banner",
+			"commercial-mpu",
+			"</div",
+			"<div",
+			"\\<div>",
+			"<div>",
+			".footer",
+			"webkit-text-size-adjust",
+			"QuadraatProBold",
+			"em",
+			"QuadraatProItalic",
+			"(max-width",
+			"commercial-banner",
+			"intro-copy",
+			"most-read-intro",
+			"26px",
+			"35p",
+			"35px",
+			"Read More",
+			"QuadraatProDemiBold",
+			"London, WC1A 2HN",
+			"podcast",
+			"archive-assets",
+			"si-assets",
+			"assets/",
+			"podcast",
+			".feature-audio h2",
+			"podcast",
+			".social-share",
+			"podcast-icon",
+			"feature-aud",
+			"other-features-cat",
+			"feature-audio-hero-image",
+			"feature-audio",
+			"podcast-icon",
+			"feature-audio",
+			"social-share",
+			"8px",
+			"footer-settings-options",
+			"feature-author",
+			"b1b1b1",
+			"6b6b6b",
+			"dfdeda",
+			"feature-author",
+			"social-share",
+			"also-in",
+			"-Light",
+			"advanced search",
+			"Written",
+			"Written by",
+			"Reviewed by",
+			"font-size",
+			"font-siez",
+			".footer",
+			"line",
+			"also-in-this",
+			"hotjar",
+			"feature-audio",
+			"letter",
+			".footer",
+			"more",
+			".more",
+			".more,",
+			".more",
+			" a ",
+			"footer-ic",
+			"searchoptions",
+			"search-cta",
+			"advance",
+			"9d9d9d",
+			"444",
+			"icon-lock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$($paras[i]).fadeIn(500);",
+			"$($paras[i]).fadeIn(200);",
+			"align=\"center\"",
+			"	.footer p {\n		font-family: 'Ideal Sans SSm A', 'Ideal Sans SSm B', Arial, sans-serif;\n	}",
+			"	.copyright {\n		margin-bottom: 18px;\n	}",
+			"<p class=\"copyright\">&copy; 2017 London Review of Books</p>",
+			"align=\"center\"",
+			"	.commercial-mpu img {\n		max-width: 300px;\n	}\n",
+			"	.commercial-mpu,\n	.commercial-banner img {\n		width: 100%;\n	}\n\n	.commercial-mpu {\n		max-width: 300px;\n	}\n",
+			"align=\"center\"",
+			"src=\"nin-assets/",
+			"\"true\" class=",
+			"<table role=\"presentation\" aria-hidden=\"true\"",
+			"7%",
+			"align=\"center\"",
+			"</table",
+			"<table",
+			"</table",
+			"<table",
+			"</table",
+			"<table",
+			"<table>",
+			"(max-device-width",
+			"Read more",
+			"QuadraatProBold",
+			"blog-assets",
+			"special-assets",
+			"archive-assets/",
+			"ccc",
+			"b1b1b1",
+			"6b6b6b",
+			"737373",
+			"565656",
+			"dfdfdf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}
