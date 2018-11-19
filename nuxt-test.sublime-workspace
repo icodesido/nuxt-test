@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"r",
+				"r-al"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
 				"po",
 				"policy-form__button"
 			],
@@ -22,10 +34,6 @@
 			[
 				"he",
 				"min-height"
-			],
-			[
-				"pad",
-				"padding-left"
 			],
 			[
 				"border",
@@ -86,10 +94,6 @@
 			[
 				"bro",
 				"border-top"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"arti",
@@ -299,6 +303,73 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pages/index.vue",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/product.vue",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix",
+				"name": "<template>"
+			}
+		},
+		{
+			"file": "pages/contact.vue",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix",
+				"name": "<template>"
+			}
+		},
+		{
+			"file": "components/FadeExample.vue",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Unix",
+				"name": "<template>"
+			}
+		},
+		{
+			"file": "layouts/default.vue",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/Navigation.vue",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/AppLogo.vue",
+			"settings":
+			{
+				"buffer_size": 1499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/FadeTransition.vue",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -307,11 +378,15 @@
 		"selected_items":
 		[
 			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
 				"package",
 				"Package Control: Disable Package"
 			]
 		],
-		"width": 719.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -328,6 +403,12 @@
 	},
 	"file_history":
 	[
+		"/Users/ivan/Desktop/nuxt-test/components/FadeExample.vue",
+		"/Users/ivan/Desktop/www.nhm.ac.uk.rtf",
+		"/Users/ivan/Desktop/nuxt-test/nuxt.config.js",
+		"/Users/ivan/Desktop/nuxt-test/.gitignore",
+		"/Users/ivan/Desktop/nuxt-test/components/FadeTransition.vue",
+		"/Users/ivan/Desktop/nuxt-test/pages/navigation.vue",
 		"/Users/ivan/Desktop/dr-test/src/components/Intro.vue",
 		"/Users/ivan/Desktop/dr-test/src/main.js",
 		"/Users/ivan/Desktop/dr-test/package.json",
@@ -429,6 +510,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n    ",
 			"first-proto",
 			"checkbox",
 			"password",
@@ -555,8 +637,7 @@
 			"search-cta",
 			"advance",
 			"9d9d9d",
-			"444",
-			"icon-lock"
+			"444"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -610,6 +691,240 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pages/index.vue",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/product.vue",
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								67
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<template>",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/contact.vue",
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<template>",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/FadeExample.vue",
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<template>",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "layouts/default.vue",
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "components/Navigation.vue",
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "components/AppLogo.vue",
+					"settings":
+					{
+						"buffer_size": 1499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "components/FadeTransition.vue",
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -1,19 +1,68 @@
 <template>
   <div>
+    <app-logo/>
+    <Navigation />
     <nuxt/>
   </div>
 </template>
 
+<script>
+import AppLogo from '~/components/AppLogo.vue'
+import Navigation from '~/components/Navigation.vue'
+
+export default {
+  components: {
+    AppLogo,
+    Navigation
+  }
+}
+</script>
+
 <style>
-html {
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+html, body {
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  background: transparent;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+a, a:visited {
+  color: #3edada;
+  text-decoration: none;
+}
+
+.container {
+  padding: 60px;
+  width: 100vw;
+  height: 100vh;
+  background: #444;
+}
+
+.page-enter-active {
+  animation: acrossIn .45s ease-out both;
+} 
+
+.page-leave-active {
+  animation: acrossOut .65s ease-in both;
+} 
+
+@keyframes acrossIn {
+  0% {
+    transform: translate3d(-100%, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes acrossOut {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(100%, 0, 0);
+  }
 }
 
 *, *:before, *:after {
