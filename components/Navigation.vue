@@ -1,9 +1,9 @@
 <template>
 	<nav>
 	  <div class="title">
-	    <nuxt-link exact to="/">Home page</nuxt-link>
-	    <nuxt-link to="/product">Product page</nuxt-link>
-	    <nuxt-link to="/contact">Contact page</nuxt-link>
+	    <nuxt-link exact to="/">Home</nuxt-link>
+	    <nuxt-link to="/product">Pixel Krazy</nuxt-link>
+	    <nuxt-link to="/contact">Animation</nuxt-link>
 	  </div>
 	</nav>
 </template>
